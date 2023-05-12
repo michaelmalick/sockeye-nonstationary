@@ -1,0 +1,20 @@
+## Project files + dirs
+scratch.R
+/data
+/output
+/figures
+/logs
+/mcmc
+/misc
+/present
+/archive
+/bayes/figures
+*.docx
+*.doc
+
+
+## Basics
+.Rhistory
+.Rapp.history
+.DS_Store
+.DS_Store?
